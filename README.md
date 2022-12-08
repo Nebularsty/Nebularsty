@@ -34,7 +34,5 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
 <!--   <a href = "">
   <img src="https://img.shields.io/badge/📄%20Resume-24292e?style=for-the-badge&labelColor=24292e" target="_blank"></a> -->
-  
-  ![Snake animation](https://github.com/Nebularsty/Nebularsty/blob/output/github-contribution-grid-snake.svg)
   </div>
     
