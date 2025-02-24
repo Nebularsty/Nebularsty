@@ -1,8 +1,4 @@
 # Olá, Me chamo Nicolas Oliveira
-
-- 🔭 Cursando Desenvolvimento de Sistema Etec Barueri
-- 💼 Atuando como dev de Front-End
-- 🏬 Empresa: Cacaushow
 - 🌱 Estudando Angular e Typescript
 - 😄 Pronouns: he/him 
 
